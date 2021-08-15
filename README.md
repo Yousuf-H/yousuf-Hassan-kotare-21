@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yousuf
 - 👀 I’m interested in learning new tech
 - 🌱 I’m currently learning React and redux
-- 📫 How to reach me at yousuf.hassan2021@gmail.com
+- 📫 You can reach me at yousuf.hassan2021@gmail.com
 
 <!---
 yousuf-Hassan-kotare-21/yousuf-Hassan-kotare-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
