@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yousuf hassan</h1>
 <h3 align="center">A passionate frontend developer from Wellington, New Zealand</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousuf-hassan-kotare-21" alt="yousuf-hassan-kotare-21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousuf-hassan-kotare-21" alt="yousuf-hassan-kotare-21" /></a> </p>
 
 - 🔭 I’m currently working on [Adopt Me](https://www.adoptme.co.nz/)
 
 - 📫 How to reach me **yousuf.hassan2021@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 
