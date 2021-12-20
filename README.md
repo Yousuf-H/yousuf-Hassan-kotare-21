@@ -58,9 +58,3 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf-hassan-kotare-21&show_icons=true&locale=en&layout=compact" alt="yousuf-hassan-kotare-21" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousuf-hassan-kotare-21&show_icons=true&locale=en" alt="yousuf-hassan-kotare-21" /></p>
-
