@@ -5,7 +5,6 @@
 
 <h3 align="center">📫 How to reach me **yousuf.hassan2021@gmail.com**</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
