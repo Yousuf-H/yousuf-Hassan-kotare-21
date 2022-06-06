@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousuf hassan</h1>
-<h3 align="center">A passionate frontend developer from Wellington, New Zealand</h3>
+<h3 align="center">A passionate software developer from Wellington, New Zealand</h3>
 
 <h3 align="center">🔭 I’m currently working on [Adopt Me](https://www.adoptme.co.nz/)</h3>
 
